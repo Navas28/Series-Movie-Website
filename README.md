@@ -24,7 +24,7 @@ This is a website built using **HTML**, **CSS**, and **JavaScript** that allows 
 
 ## Live Link
 
-You can view the live version of the project here: [Live Demo](https://navas28.github.io/series-website-new/)
+You can view the live version of the project here: [Live Demo](https://navas28.github.io/Series-Movie-Website/#)
 
 ## Screenshots
 ![Home page](https://github.com/user-attachments/assets/6f733392-6ab2-4468-97db-42285c354bd2)
