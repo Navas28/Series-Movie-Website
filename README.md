@@ -27,9 +27,9 @@ This is a website built using **HTML**, **CSS**, and **JavaScript** that allows 
 You can view the live version of the project here: [Live Demo](https://navas28.github.io/Series-Movie-Website/#)
 
 ## Screenshots
-![Home page](https://github.com/user-attachments/assets/6f733392-6ab2-4468-97db-42285c354bd2)
-![movie-section](https://github.com/user-attachments/assets/6833fccd-efdd-44c9-a64d-19e84dbe559a)
-![series-section](https://github.com/user-attachments/assets/40a7e6e8-4beb-45ff-8c20-e04227bf734f)
-![contact](https://github.com/user-attachments/assets/b4a3bcae-258f-42d7-82f7-c35fc1cb0560)
-![login](https://github.com/user-attachments/assets/9314c7fa-5b14-4252-8c52-ca221142dd1b)
- 
+
+ ![series-home](https://github.com/user-attachments/assets/bcd5c0b5-1b9a-4cbb-9def-55eb34f68b3d)
+![movie-section](https://github.com/user-attachments/assets/59e1fd71-bab7-469c-ae3f-c6febdaa46cf)
+![series-section](https://github.com/user-attachments/assets/20131c1b-cd18-400d-bb70-2170efa7fbc3)
+![series-login](https://github.com/user-attachments/assets/ce81b327-16d6-4f0f-a7aa-3b077a0b566c)
+![series-contact](https://github.com/user-attachments/assets/dc9c2538-f469-4598-a67a-3981baf7711b)
